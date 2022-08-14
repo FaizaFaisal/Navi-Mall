@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476862322292",
+    "project_id": "navimall-dcba9",
+    "storage_bucket": "navimall-dcba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476862322292:android:f66e89bdd63f49c11fe321",
+        "android_client_info": {
+          "package_name": "com.uob.navi_mall_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476862322292-g7ogddhbdoejt43gmpoe8v74g83ujllc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBteSjR4ubjIJtRHvv07thk928Pzlon1h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476862322292-g7ogddhbdoejt43gmpoe8v74g83ujllc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
